@@ -1,6 +1,7 @@
 # Adversarial Robustness in Neural Networks
 
 A GitHub-ready academic project that evaluates how a neural network behaves under adversarial attack and how adversarial training improves robustness.
+مشروع بحثي يركز على تقييم وتحسين متانة الشبكات العصبية ضد الهجمات العدائية باستخدام تقنيات مثل FGSM وPGD، مع تطبيق التدريب العدائي وتحليل النتائج من خلال عرض تفاعلي وبيئة قابلة لإعادة التنفيذ.
 
 ## Project summary
 
