@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Evaluating and Improving Adversarial Robustness in Neural Networks"
+message: "If you use this repository, please cite the manuscript included in the project."
+authors:
+  - family-names: "Name"
+    given-names: "Researcher"
+version: 1.0.0
+date-released: 2026-04-23
